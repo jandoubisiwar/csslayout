@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(25, 185, 137);
+    align-items: center;
+    padding: 10PX ;
+}
+.links a{
+    color:rgb(0, 255, 21);
+    text-decoration: none;
+    font-size: 16px;
+}
+.links{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.links a:hover{
+    color: rgb(243, 16, 16);
+
+}
+.hah{
+    text-align: center;
+    padding: 50px 0;
+}
+.paragraph{
+   display: flex;
+   justify-content: space-between;
+}
+.paragraph p{
+    padding: 0 10 px;
+}
+img{
+    height: 40px;
+}
+
+
+.links a{
+   padding-right: 10px;
+}
